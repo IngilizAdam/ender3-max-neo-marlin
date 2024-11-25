@@ -62,6 +62,7 @@
  * Marlin repository.
  */
 //#define SOURCE_CODE_URL "github.com/MarlinFirmware/Marlin"
+#define SOURCE_CODE_URL "github.com/mriscoc/Ender3V2S1"
 
 /**
  * Default generic printer UUID.
